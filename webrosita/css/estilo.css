@@ -1,0 +1,75 @@
+#pgprincipal{
+	background-color: #fff;
+}
+
+#pgcontacto{
+	background-color: #fff;
+}
+
+#formulario-contacto{
+margin-top: 20px;
+width: 45%;
+margin: auto;
+background-color: #218EDE;
+color:  #fff;
+padding: 15px;
+border-radius: 4px 4px 4px 4px;
+}
+
+nav{
+	margin-bottom: 15px;
+	
+}
+
+.miscard{
+margin-bottom: 15px;
+}
+#card{
+  background-color: #1A72B2;
+  color: #fff;
+}
+#card2{
+  background-color: #218EDE;
+  color: #fff;
+}
+
+
+
+.miscolores{
+	background-color: #218EDE;
+	color: whitesmoke;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.activo{
+	background-color: #1A72B2;
+
+}
+
+.nav-item:hover{
+	background-color: #1A72B2;
+}
+
+ .pictures {
+      list-style: none;
+      margin: 0;
+      max-width: 100%rem;
+      padding: 0;
+    }
+
+    .pictures > li {
+      border: 1px solid transparent;
+      float: left;
+      height: calc(100% / 4);
+      margin: 0 -1px -1px 0;
+      overflow: hidden;
+      width: calc(100% / 4);
+    }
+
+    .pictures > li > img {
+      cursor: pointer;
+      width: 100%;
+    }
+
+
